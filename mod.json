@@ -1,0 +1,10 @@
+{
+  "mod": {
+    "name": "Auto Capsule (Remedy + Heal)",
+    "description": "Auto-uses Remedy Capsule (Fire/Poison) and Health Capsule when low HP. Heal threshold and cooldown configurable via <game>/autocapsule.properties (defaults: 25%, 1000ms). Heal is skipped while poisoned (heals are useless then).",
+    "author": "Alois",
+    "version": "1.1",
+    "type": "class",
+    "pxVersion": "20260403121506"
+  }
+}
